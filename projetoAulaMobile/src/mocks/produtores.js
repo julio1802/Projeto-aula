@@ -14,6 +14,7 @@ const produtores = {
             estrelas: '5',
         },
         {
+            
             nome: "Salad",
             imagem: salad,
             distancia: "1m",
